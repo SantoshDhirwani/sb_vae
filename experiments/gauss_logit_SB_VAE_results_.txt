@@ -1,0 +1,354 @@
+epoch 0, training loss (NLL) 212.5756, training kl divergence 0.2572, valid error 165.3083, time 0.40  ***
+epoch 1, training loss (NLL) 130.3388, training kl divergence 0.5412, valid error 111.5357, time 0.40  ***
+epoch 2, training loss (NLL) 100.4175, training kl divergence 0.6630, valid error 92.5372, time 0.40  ***
+epoch 3, training loss (NLL) 87.1059, training kl divergence 0.7217, valid error 83.5746, time 0.40  ***
+epoch 4, training loss (NLL) 80.1957, training kl divergence 0.7672, valid error 78.1667, time 0.40  ***
+epoch 5, training loss (NLL) 75.5348, training kl divergence 0.7995, valid error 74.2025, time 0.41  ***
+epoch 6, training loss (NLL) 72.4821, training kl divergence 0.8162, valid error 71.9869, time 0.40  ***
+epoch 7, training loss (NLL) 70.5084, training kl divergence 0.8278, valid error 70.6057, time 0.40  ***
+epoch 8, training loss (NLL) 68.9519, training kl divergence 0.8371, valid error 68.9728, time 0.40  ***
+epoch 9, training loss (NLL) 67.6588, training kl divergence 0.8472, valid error 68.0692, time 0.41  ***
+epoch 10, training loss (NLL) 66.4817, training kl divergence 0.8548, valid error 67.1425, time 0.41  ***
+epoch 11, training loss (NLL) 65.6084, training kl divergence 0.8583, valid error 66.8880, time 0.41  ***
+epoch 12, training loss (NLL) 64.9657, training kl divergence 0.8591, valid error 66.8202, time 0.43  ***
+epoch 13, training loss (NLL) 64.5737, training kl divergence 0.8606, valid error 65.6996, time 0.47  ***
+epoch 14, training loss (NLL) 64.1056, training kl divergence 0.8615, valid error 65.2675, time 0.40  ***
+epoch 15, training loss (NLL) 63.3972, training kl divergence 0.8599, valid error 64.6566, time 0.40  ***
+epoch 16, training loss (NLL) 62.7990, training kl divergence 0.8558, valid error 64.0622, time 0.41  ***
+epoch 17, training loss (NLL) 62.3254, training kl divergence 0.8498, valid error 63.8732, time 0.40  ***
+epoch 18, training loss (NLL) 61.9591, training kl divergence 0.8428, valid error 63.5536, time 0.40  ***
+epoch 19, training loss (NLL) 61.6499, training kl divergence 0.8361, valid error 63.2751, time 0.40  ***
+epoch 20, training loss (NLL) 61.4172, training kl divergence 0.8307, valid error 63.1278, time 0.40  ***
+epoch 21, training loss (NLL) 61.2332, training kl divergence 0.8271, valid error 63.0232, time 0.40  ***
+epoch 22, training loss (NLL) 61.0029, training kl divergence 0.8255, valid error 62.9032, time 0.40  ***
+epoch 23, training loss (NLL) 60.8026, training kl divergence 0.8235, valid error 62.7996, time 0.40  ***
+epoch 24, training loss (NLL) 60.7502, training kl divergence 0.8220, valid error 62.4994, time 0.40  ***
+epoch 25, training loss (NLL) 60.5824, training kl divergence 0.8211, valid error 62.3222, time 0.40  ***
+epoch 26, training loss (NLL) 60.3005, training kl divergence 0.8194, valid error 62.0311, time 0.40  ***
+epoch 27, training loss (NLL) 60.2012, training kl divergence 0.8151, valid error 61.9465, time 0.40  ***
+epoch 28, training loss (NLL) 60.1493, training kl divergence 0.8116, valid error 61.7038, time 0.39  ***
+epoch 29, training loss (NLL) 59.8420, training kl divergence 0.8080, valid error 61.7414, time 0.40 
+epoch 30, training loss (NLL) 59.6419, training kl divergence 0.8032, valid error 61.6728, time 0.40  ***
+epoch 31, training loss (NLL) 59.4586, training kl divergence 0.7984, valid error 61.4621, time 0.40  ***
+epoch 32, training loss (NLL) 59.2842, training kl divergence 0.7931, valid error 61.2401, time 0.40  ***
+epoch 33, training loss (NLL) 59.1399, training kl divergence 0.7881, valid error 61.1564, time 0.40  ***
+epoch 34, training loss (NLL) 59.0102, training kl divergence 0.7829, valid error 60.9890, time 0.40  ***
+epoch 35, training loss (NLL) 58.9407, training kl divergence 0.7785, valid error 61.0319, time 0.46 
+epoch 36, training loss (NLL) 58.8743, training kl divergence 0.7743, valid error 60.8895, time 0.46  ***
+epoch 37, training loss (NLL) 58.8206, training kl divergence 0.7708, valid error 61.0416, time 0.42 
+epoch 38, training loss (NLL) 58.8070, training kl divergence 0.7679, valid error 60.9998, time 0.40 
+epoch 39, training loss (NLL) 58.8562, training kl divergence 0.7652, valid error 60.8412, time 0.40  ***
+epoch 40, training loss (NLL) 58.9741, training kl divergence 0.7633, valid error 60.7645, time 0.40  ***
+epoch 41, training loss (NLL) 58.8605, training kl divergence 0.7616, valid error 60.7818, time 0.40 
+epoch 42, training loss (NLL) 58.6899, training kl divergence 0.7607, valid error 60.6906, time 0.40  ***
+epoch 43, training loss (NLL) 58.5554, training kl divergence 0.7582, valid error 60.6109, time 0.40  ***
+epoch 44, training loss (NLL) 58.5833, training kl divergence 0.7546, valid error 60.9805, time 0.40 
+epoch 45, training loss (NLL) 58.5411, training kl divergence 0.7525, valid error 60.8005, time 0.40 
+epoch 46, training loss (NLL) 58.3447, training kl divergence 0.7495, valid error 60.4673, time 0.40  ***
+epoch 47, training loss (NLL) 58.0638, training kl divergence 0.7458, valid error 60.2024, time 0.40  ***
+epoch 48, training loss (NLL) 57.8726, training kl divergence 0.7398, valid error 60.1848, time 0.40  ***
+epoch 49, training loss (NLL) 57.8072, training kl divergence 0.7343, valid error 60.0152, time 0.40  ***
+epoch 50, training loss (NLL) 57.7683, training kl divergence 0.7291, valid error 59.9916, time 0.40  ***
+epoch 51, training loss (NLL) 57.7307, training kl divergence 0.7247, valid error 59.9962, time 0.40 
+epoch 52, training loss (NLL) 57.6832, training kl divergence 0.7203, valid error 59.9509, time 0.40  ***
+epoch 53, training loss (NLL) 57.6407, training kl divergence 0.7164, valid error 59.8971, time 0.41  ***
+epoch 54, training loss (NLL) 57.6369, training kl divergence 0.7129, valid error 59.8626, time 0.40  ***
+epoch 55, training loss (NLL) 57.6378, training kl divergence 0.7097, valid error 59.7988, time 0.40  ***
+epoch 56, training loss (NLL) 57.6544, training kl divergence 0.7072, valid error 59.7733, time 0.40  ***
+epoch 57, training loss (NLL) 57.5854, training kl divergence 0.7044, valid error 59.8449, time 0.40 
+epoch 58, training loss (NLL) 57.4906, training kl divergence 0.7018, valid error 59.8359, time 0.40 
+epoch 59, training loss (NLL) 57.4505, training kl divergence 0.6986, valid error 59.8323, time 0.39 
+epoch 60, training loss (NLL) 57.4914, training kl divergence 0.6960, valid error 59.7724, time 0.40  ***
+epoch 61, training loss (NLL) 57.5483, training kl divergence 0.6941, valid error 59.7409, time 0.40  ***
+epoch 62, training loss (NLL) 57.4735, training kl divergence 0.6935, valid error 59.6994, time 0.40  ***
+epoch 63, training loss (NLL) 57.4389, training kl divergence 0.6926, valid error 59.7776, time 0.40 
+epoch 64, training loss (NLL) 57.3783, training kl divergence 0.6912, valid error 59.5863, time 0.40  ***
+epoch 65, training loss (NLL) 57.1841, training kl divergence 0.6893, valid error 59.4896, time 0.40  ***
+epoch 66, training loss (NLL) 57.0346, training kl divergence 0.6855, valid error 59.3161, time 0.40  ***
+epoch 67, training loss (NLL) 56.9696, training kl divergence 0.6811, valid error 59.3046, time 0.40  ***
+epoch 68, training loss (NLL) 56.9379, training kl divergence 0.6770, valid error 59.2683, time 0.40  ***
+epoch 69, training loss (NLL) 56.9127, training kl divergence 0.6737, valid error 59.3222, time 0.39 
+epoch 70, training loss (NLL) 56.9007, training kl divergence 0.6710, valid error 59.1942, time 0.40  ***
+epoch 71, training loss (NLL) 56.8948, training kl divergence 0.6684, valid error 59.2131, time 0.40 
+epoch 72, training loss (NLL) 56.8608, training kl divergence 0.6660, valid error 59.2057, time 0.40 
+epoch 73, training loss (NLL) 56.8545, training kl divergence 0.6641, valid error 59.1943, time 0.40 
+epoch 74, training loss (NLL) 56.8832, training kl divergence 0.6618, valid error 59.1797, time 0.39  ***
+epoch 75, training loss (NLL) 56.9164, training kl divergence 0.6602, valid error 59.1424, time 0.40  ***
+epoch 76, training loss (NLL) 56.8512, training kl divergence 0.6593, valid error 59.0864, time 0.39  ***
+epoch 77, training loss (NLL) 56.8309, training kl divergence 0.6577, valid error 59.0780, time 0.40  ***
+epoch 78, training loss (NLL) 56.7882, training kl divergence 0.6560, valid error 59.0405, time 0.40  ***
+epoch 79, training loss (NLL) 56.7347, training kl divergence 0.6549, valid error 59.1241, time 0.40 
+epoch 80, training loss (NLL) 56.7171, training kl divergence 0.6530, valid error 59.0947, time 0.40 
+epoch 81, training loss (NLL) 56.6611, training kl divergence 0.6515, valid error 59.0134, time 0.40  ***
+epoch 82, training loss (NLL) 56.6062, training kl divergence 0.6491, valid error 58.9429, time 0.40  ***
+epoch 83, training loss (NLL) 56.5173, training kl divergence 0.6461, valid error 58.9262, time 0.40  ***
+epoch 84, training loss (NLL) 56.4808, training kl divergence 0.6430, valid error 58.8306, time 0.39  ***
+epoch 85, training loss (NLL) 56.4364, training kl divergence 0.6404, valid error 58.8591, time 0.41 
+epoch 86, training loss (NLL) 56.4104, training kl divergence 0.6377, valid error 58.8430, time 0.43 
+epoch 87, training loss (NLL) 56.3822, training kl divergence 0.6351, valid error 58.7357, time 0.42  ***
+epoch 88, training loss (NLL) 56.3658, training kl divergence 0.6330, valid error 58.7521, time 0.40 
+epoch 89, training loss (NLL) 56.3525, training kl divergence 0.6310, valid error 58.8030, time 0.40 
+epoch 90, training loss (NLL) 56.3408, training kl divergence 0.6293, valid error 58.6892, time 0.40  ***
+epoch 91, training loss (NLL) 56.3566, training kl divergence 0.6270, valid error 58.7833, time 0.40 
+epoch 92, training loss (NLL) 56.4350, training kl divergence 0.6255, valid error 59.0438, time 0.40 
+epoch 93, training loss (NLL) 56.4973, training kl divergence 0.6248, valid error 58.9111, time 0.41 
+epoch 94, training loss (NLL) 56.5265, training kl divergence 0.6240, valid error 58.9136, time 0.41 
+epoch 95, training loss (NLL) 56.4576, training kl divergence 0.6241, valid error 58.7297, time 0.40 
+epoch 96, training loss (NLL) 56.3699, training kl divergence 0.6239, valid error 58.6617, time 0.39  ***
+epoch 97, training loss (NLL) 56.3189, training kl divergence 0.6228, valid error 58.5889, time 0.40  ***
+epoch 98, training loss (NLL) 56.2097, training kl divergence 0.6212, valid error 58.5176, time 0.39  ***
+epoch 99, training loss (NLL) 56.0692, training kl divergence 0.6183, valid error 58.5010, time 0.40  ***
+epoch 100, training loss (NLL) 56.0566, training kl divergence 0.6144, valid error 58.4878, time 0.39  ***
+epoch 101, training loss (NLL) 55.9922, training kl divergence 0.6110, valid error 58.4446, time 0.40  ***
+epoch 102, training loss (NLL) 55.9810, training kl divergence 0.6081, valid error 58.3890, time 0.40  ***
+epoch 103, training loss (NLL) 55.9813, training kl divergence 0.6056, valid error 58.4132, time 0.40 
+epoch 104, training loss (NLL) 55.9656, training kl divergence 0.6035, valid error 58.3537, time 0.43  ***
+epoch 105, training loss (NLL) 55.9642, training kl divergence 0.6016, valid error 58.3596, time 0.40 
+epoch 106, training loss (NLL) 55.9887, training kl divergence 0.6001, valid error 58.4681, time 0.42 
+epoch 107, training loss (NLL) 55.9616, training kl divergence 0.5991, valid error 58.3550, time 0.42 
+epoch 108, training loss (NLL) 55.9239, training kl divergence 0.5975, valid error 58.2947, time 0.41  ***
+epoch 109, training loss (NLL) 55.9192, training kl divergence 0.5960, valid error 58.3134, time 0.41 
+epoch 110, training loss (NLL) 55.9056, training kl divergence 0.5946, valid error 58.3424, time 0.40 
+epoch 111, training loss (NLL) 55.8989, training kl divergence 0.5935, valid error 58.3809, time 0.42 
+epoch 112, training loss (NLL) 55.9497, training kl divergence 0.5922, valid error 58.2920, time 0.41  ***
+epoch 113, training loss (NLL) 56.0011, training kl divergence 0.5920, valid error 58.3081, time 0.41 
+epoch 114, training loss (NLL) 55.9411, training kl divergence 0.5916, valid error 58.3945, time 0.40 
+epoch 115, training loss (NLL) 55.9210, training kl divergence 0.5902, valid error 58.3722, time 0.41 
+epoch 116, training loss (NLL) 55.8548, training kl divergence 0.5886, valid error 58.3474, time 0.45 
+epoch 117, training loss (NLL) 55.8658, training kl divergence 0.5868, valid error 58.3470, time 0.53 
+epoch 118, training loss (NLL) 55.8078, training kl divergence 0.5851, valid error 58.2084, time 0.43  ***
+epoch 119, training loss (NLL) 55.7615, training kl divergence 0.5835, valid error 58.1291, time 0.40  ***
+epoch 120, training loss (NLL) 55.6816, training kl divergence 0.5813, valid error 58.1193, time 0.40  ***
+epoch 121, training loss (NLL) 55.6404, training kl divergence 0.5786, valid error 58.0922, time 0.40  ***
+epoch 122, training loss (NLL) 55.6069, training kl divergence 0.5759, valid error 58.0808, time 0.40  ***
+epoch 123, training loss (NLL) 55.6038, training kl divergence 0.5732, valid error 58.0198, time 0.40  ***
+epoch 124, training loss (NLL) 55.6204, training kl divergence 0.5715, valid error 58.0204, time 0.40 
+epoch 125, training loss (NLL) 55.5922, training kl divergence 0.5701, valid error 58.0078, time 0.40  ***
+epoch 126, training loss (NLL) 55.5859, training kl divergence 0.5683, valid error 58.0311, time 0.40 
+epoch 127, training loss (NLL) 55.6246, training kl divergence 0.5666, valid error 58.0049, time 0.40  ***
+epoch 128, training loss (NLL) 55.6200, training kl divergence 0.5655, valid error 58.0394, time 0.41 
+epoch 129, training loss (NLL) 55.6039, training kl divergence 0.5650, valid error 58.0202, time 0.40 
+epoch 130, training loss (NLL) 55.5809, training kl divergence 0.5642, valid error 58.0533, time 0.40 
+epoch 131, training loss (NLL) 55.5364, training kl divergence 0.5631, valid error 57.9737, time 0.41  ***
+epoch 132, training loss (NLL) 55.5242, training kl divergence 0.5616, valid error 57.9496, time 0.41  ***
+epoch 133, training loss (NLL) 55.4885, training kl divergence 0.5599, valid error 57.9295, time 0.40  ***
+epoch 134, training loss (NLL) 55.5001, training kl divergence 0.5581, valid error 57.9258, time 0.40  ***
+epoch 135, training loss (NLL) 55.5101, training kl divergence 0.5566, valid error 57.9096, time 0.40  ***
+epoch 136, training loss (NLL) 55.5178, training kl divergence 0.5553, valid error 57.9879, time 0.40 
+epoch 137, training loss (NLL) 55.5642, training kl divergence 0.5543, valid error 58.0946, time 0.40 
+epoch 138, training loss (NLL) 55.6072, training kl divergence 0.5544, valid error 58.1593, time 0.40 
+epoch 139, training loss (NLL) 55.5550, training kl divergence 0.5546, valid error 58.0892, time 0.40 
+epoch 140, training loss (NLL) 55.5187, training kl divergence 0.5537, valid error 57.9670, time 0.41 
+epoch 141, training loss (NLL) 55.5118, training kl divergence 0.5526, valid error 57.9119, time 0.40 
+epoch 142, training loss (NLL) 55.5195, training kl divergence 0.5515, valid error 58.0039, time 0.41 
+epoch 143, training loss (NLL) 55.5643, training kl divergence 0.5509, valid error 57.9121, time 0.40 
+epoch 144, training loss (NLL) 55.6148, training kl divergence 0.5506, valid error 57.9645, time 0.40 
+epoch 145, training loss (NLL) 55.6579, training kl divergence 0.5507, valid error 57.9121, time 0.41 
+epoch 146, training loss (NLL) 55.6787, training kl divergence 0.5507, valid error 57.9802, time 0.42 
+epoch 147, training loss (NLL) 55.6687, training kl divergence 0.5503, valid error 57.9186, time 0.40 
+epoch 148, training loss (NLL) 55.5491, training kl divergence 0.5491, valid error 57.8639, time 0.41  ***
+epoch 149, training loss (NLL) 55.4201, training kl divergence 0.5468, valid error 57.8389, time 0.40  ***
+epoch 150, training loss (NLL) 55.2875, training kl divergence 0.5439, valid error 57.6866, time 0.40  ***
+epoch 151, training loss (NLL) 55.2048, training kl divergence 0.5400, valid error 57.7209, time 0.40 
+epoch 152, training loss (NLL) 55.1814, training kl divergence 0.5364, valid error 57.6609, time 0.41  ***
+epoch 153, training loss (NLL) 55.1983, training kl divergence 0.5335, valid error 57.7006, time 0.41 
+epoch 154, training loss (NLL) 55.1828, training kl divergence 0.5311, valid error 57.6952, time 0.40 
+epoch 155, training loss (NLL) 55.1889, training kl divergence 0.5293, valid error 57.6962, time 0.42 
+epoch 156, training loss (NLL) 55.2142, training kl divergence 0.5273, valid error 57.6674, time 0.41 
+epoch 157, training loss (NLL) 55.2135, training kl divergence 0.5256, valid error 57.6586, time 0.40  ***
+epoch 158, training loss (NLL) 55.2217, training kl divergence 0.5246, valid error 57.6934, time 0.42 
+epoch 159, training loss (NLL) 55.1860, training kl divergence 0.5236, valid error 57.6693, time 0.43 
+epoch 160, training loss (NLL) 55.2129, training kl divergence 0.5223, valid error 57.6204, time 0.41  ***
+epoch 161, training loss (NLL) 55.2006, training kl divergence 0.5215, valid error 57.5935, time 0.40  ***
+epoch 162, training loss (NLL) 55.1512, training kl divergence 0.5202, valid error 57.6057, time 0.40 
+epoch 163, training loss (NLL) 55.1073, training kl divergence 0.5189, valid error 57.6052, time 0.40 
+epoch 164, training loss (NLL) 55.0962, training kl divergence 0.5171, valid error 57.6169, time 0.47 
+epoch 165, training loss (NLL) 55.1079, training kl divergence 0.5157, valid error 57.6083, time 0.42 
+epoch 166, training loss (NLL) 55.0822, training kl divergence 0.5145, valid error 57.5733, time 0.46  ***
+epoch 167, training loss (NLL) 55.0797, training kl divergence 0.5130, valid error 57.6266, time 0.41 
+epoch 168, training loss (NLL) 55.0658, training kl divergence 0.5120, valid error 57.6365, time 0.41 
+epoch 169, training loss (NLL) 55.0534, training kl divergence 0.5107, valid error 57.5597, time 0.41  ***
+epoch 170, training loss (NLL) 55.0712, training kl divergence 0.5093, valid error 57.6075, time 0.40 
+epoch 171, training loss (NLL) 55.0782, training kl divergence 0.5087, valid error 57.5145, time 0.43  ***
+epoch 172, training loss (NLL) 55.0928, training kl divergence 0.5077, valid error 57.6001, time 0.41 
+epoch 173, training loss (NLL) 55.1251, training kl divergence 0.5070, valid error 57.5974, time 0.40 
+epoch 174, training loss (NLL) 55.2252, training kl divergence 0.5074, valid error 57.6156, time 0.43 
+epoch 175, training loss (NLL) 55.1564, training kl divergence 0.5081, valid error 57.6141, time 0.42 
+epoch 176, training loss (NLL) 55.1252, training kl divergence 0.5073, valid error 57.6478, time 0.41 
+epoch 177, training loss (NLL) 55.1310, training kl divergence 0.5068, valid error 57.6318, time 0.41 
+epoch 178, training loss (NLL) 55.0655, training kl divergence 0.5058, valid error 57.6143, time 0.40 
+epoch 179, training loss (NLL) 55.0194, training kl divergence 0.5043, valid error 57.5276, time 0.43 
+epoch 180, training loss (NLL) 54.9893, training kl divergence 0.5024, valid error 57.5227, time 0.41 
+epoch 181, training loss (NLL) 54.9718, training kl divergence 0.5007, valid error 57.4650, time 0.40  ***
+epoch 182, training loss (NLL) 54.9235, training kl divergence 0.4990, valid error 57.4717, time 0.41 
+epoch 183, training loss (NLL) 54.9168, training kl divergence 0.4969, valid error 57.4485, time 0.41  ***
+epoch 184, training loss (NLL) 54.9242, training kl divergence 0.4952, valid error 57.4646, time 0.41 
+epoch 185, training loss (NLL) 54.9277, training kl divergence 0.4941, valid error 57.4477, time 0.41  ***
+epoch 186, training loss (NLL) 54.9280, training kl divergence 0.4930, valid error 57.5129, time 0.40 
+epoch 187, training loss (NLL) 54.9083, training kl divergence 0.4918, valid error 57.4894, time 0.42 
+epoch 188, training loss (NLL) 54.9546, training kl divergence 0.4907, valid error 57.4942, time 0.41 
+epoch 189, training loss (NLL) 54.9870, training kl divergence 0.4902, valid error 57.4920, time 0.41 
+epoch 190, training loss (NLL) 54.9269, training kl divergence 0.4898, valid error 57.4661, time 0.40 
+epoch 191, training loss (NLL) 54.9247, training kl divergence 0.4887, valid error 57.5382, time 0.41 
+epoch 192, training loss (NLL) 54.9294, training kl divergence 0.4882, valid error 57.5076, time 0.41 
+epoch 193, training loss (NLL) 54.9655, training kl divergence 0.4878, valid error 57.5351, time 0.40 
+epoch 194, training loss (NLL) 55.0021, training kl divergence 0.4878, valid error 57.6720, time 0.40 
+epoch 195, training loss (NLL) 55.0379, training kl divergence 0.4878, valid error 57.5931, time 0.41 
+epoch 196, training loss (NLL) 55.1264, training kl divergence 0.4885, valid error 57.4917, time 0.40 
+epoch 197, training loss (NLL) 55.0771, training kl divergence 0.4893, valid error 57.4690, time 0.40 
+epoch 198, training loss (NLL) 55.0119, training kl divergence 0.4892, valid error 57.4280, time 0.41  ***
+epoch 199, training loss (NLL) 54.9386, training kl divergence 0.4882, valid error 57.4062, time 0.41  ***
+epoch 200, training loss (NLL) 54.8501, training kl divergence 0.4861, valid error 57.3601, time 0.40  ***
+epoch 201, training loss (NLL) 54.8001, training kl divergence 0.4837, valid error 57.3747, time 0.42 
+epoch 202, training loss (NLL) 54.7714, training kl divergence 0.4813, valid error 57.3614, time 0.40 
+epoch 203, training loss (NLL) 54.7447, training kl divergence 0.4791, valid error 57.2948, time 0.41  ***
+epoch 204, training loss (NLL) 54.7497, training kl divergence 0.4771, valid error 57.3167, time 0.40 
+epoch 205, training loss (NLL) 54.7482, training kl divergence 0.4755, valid error 57.3636, time 0.41 
+epoch 206, training loss (NLL) 54.7637, training kl divergence 0.4745, valid error 57.3145, time 0.39 
+epoch 207, training loss (NLL) 54.7676, training kl divergence 0.4732, valid error 57.2966, time 0.40 
+epoch 208, training loss (NLL) 54.7433, training kl divergence 0.4721, valid error 57.3647, time 0.40 
+epoch 209, training loss (NLL) 54.7442, training kl divergence 0.4710, valid error 57.2699, time 0.40  ***
+epoch 210, training loss (NLL) 54.7370, training kl divergence 0.4700, valid error 57.3513, time 0.39 
+epoch 211, training loss (NLL) 54.7710, training kl divergence 0.4694, valid error 57.3261, time 0.41 
+epoch 212, training loss (NLL) 54.7659, training kl divergence 0.4690, valid error 57.4168, time 0.40 
+epoch 213, training loss (NLL) 54.7636, training kl divergence 0.4685, valid error 57.3963, time 0.40 
+epoch 214, training loss (NLL) 54.8017, training kl divergence 0.4680, valid error 57.2947, time 0.41 
+epoch 215, training loss (NLL) 54.7504, training kl divergence 0.4677, valid error 57.2819, time 0.42 
+epoch 216, training loss (NLL) 54.7164, training kl divergence 0.4668, valid error 57.2992, time 0.40 
+epoch 217, training loss (NLL) 54.7065, training kl divergence 0.4656, valid error 57.3717, time 0.40 
+epoch 218, training loss (NLL) 54.7036, training kl divergence 0.4644, valid error 57.2655, time 0.40  ***
+epoch 219, training loss (NLL) 54.6687, training kl divergence 0.4632, valid error 57.2314, time 0.40  ***
+epoch 220, training loss (NLL) 54.6670, training kl divergence 0.4621, valid error 57.1999, time 0.40  ***
+epoch 221, training loss (NLL) 54.6505, training kl divergence 0.4612, valid error 57.2755, time 0.40 
+epoch 222, training loss (NLL) 54.6544, training kl divergence 0.4600, valid error 57.2269, time 0.42 
+epoch 223, training loss (NLL) 54.6763, training kl divergence 0.4591, valid error 57.3391, time 0.41 
+epoch 224, training loss (NLL) 54.6648, training kl divergence 0.4587, valid error 57.2621, time 0.41 
+epoch 225, training loss (NLL) 54.6666, training kl divergence 0.4578, valid error 57.3449, time 0.43 
+epoch 226, training loss (NLL) 54.6944, training kl divergence 0.4575, valid error 57.3843, time 0.41 
+epoch 227, training loss (NLL) 54.7230, training kl divergence 0.4575, valid error 57.4186, time 0.41 
+epoch 228, training loss (NLL) 54.7217, training kl divergence 0.4579, valid error 57.4913, time 0.40 
+epoch 229, training loss (NLL) 54.7362, training kl divergence 0.4582, valid error 57.4267, time 0.40 
+epoch 230, training loss (NLL) 54.7938, training kl divergence 0.4591, valid error 57.4132, time 0.40 
+epoch 231, training loss (NLL) 54.8218, training kl divergence 0.4603, valid error 57.3834, time 0.40 
+epoch 232, training loss (NLL) 54.7983, training kl divergence 0.4603, valid error 57.2644, time 0.41 
+epoch 233, training loss (NLL) 54.7713, training kl divergence 0.4600, valid error 57.2186, time 0.40 
+epoch 234, training loss (NLL) 54.7191, training kl divergence 0.4592, valid error 57.2280, time 0.40 
+epoch 235, training loss (NLL) 54.7026, training kl divergence 0.4578, valid error 57.1603, time 0.41  ***
+epoch 236, training loss (NLL) 54.6908, training kl divergence 0.4567, valid error 57.2833, time 0.40 
+epoch 237, training loss (NLL) 54.6978, training kl divergence 0.4560, valid error 57.3339, time 0.40 
+epoch 238, training loss (NLL) 54.6710, training kl divergence 0.4552, valid error 57.2946, time 0.40 
+epoch 239, training loss (NLL) 54.6891, training kl divergence 0.4551, valid error 57.3309, time 0.40 
+epoch 240, training loss (NLL) 54.7236, training kl divergence 0.4556, valid error 57.4365, time 0.41 
+epoch 241, training loss (NLL) 54.6987, training kl divergence 0.4555, valid error 57.4476, time 0.40 
+epoch 242, training loss (NLL) 54.6449, training kl divergence 0.4554, valid error 57.4220, time 0.40 
+epoch 243, training loss (NLL) 54.5811, training kl divergence 0.4545, valid error 57.2360, time 0.41 
+epoch 244, training loss (NLL) 54.5365, training kl divergence 0.4521, valid error 57.1629, time 0.42 
+epoch 245, training loss (NLL) 54.4915, training kl divergence 0.4498, valid error 57.1318, time 0.48  ***
+epoch 246, training loss (NLL) 54.5014, training kl divergence 0.4475, valid error 57.0789, time 0.45  ***
+epoch 247, training loss (NLL) 54.4836, training kl divergence 0.4456, valid error 57.0966, time 0.45 
+epoch 248, training loss (NLL) 54.4887, training kl divergence 0.4439, valid error 57.0209, time 0.43  ***
+epoch 249, training loss (NLL) 54.5116, training kl divergence 0.4428, valid error 57.0778, time 0.43 
+epoch 250, training loss (NLL) 54.4983, training kl divergence 0.4420, valid error 57.0792, time 0.40 
+epoch 251, training loss (NLL) 54.4943, training kl divergence 0.4410, valid error 57.0697, time 0.40 
+epoch 252, training loss (NLL) 54.4763, training kl divergence 0.4401, valid error 57.0930, time 0.40 
+epoch 253, training loss (NLL) 54.4719, training kl divergence 0.4392, valid error 57.0645, time 0.40 
+epoch 254, training loss (NLL) 54.4730, training kl divergence 0.4384, valid error 57.0639, time 0.40 
+epoch 255, training loss (NLL) 54.4789, training kl divergence 0.4380, valid error 57.0535, time 0.40 
+epoch 256, training loss (NLL) 54.4771, training kl divergence 0.4373, valid error 57.0605, time 0.40 
+epoch 257, training loss (NLL) 54.4929, training kl divergence 0.4368, valid error 57.1992, time 0.40 
+epoch 258, training loss (NLL) 54.4820, training kl divergence 0.4368, valid error 57.1034, time 0.40 
+epoch 259, training loss (NLL) 54.4631, training kl divergence 0.4364, valid error 57.0485, time 0.39 
+epoch 260, training loss (NLL) 54.4683, training kl divergence 0.4356, valid error 57.0627, time 0.40 
+epoch 261, training loss (NLL) 54.5014, training kl divergence 0.4354, valid error 57.0284, time 0.43 
+epoch 262, training loss (NLL) 54.4742, training kl divergence 0.4352, valid error 57.0273, time 0.41 
+epoch 263, training loss (NLL) 54.4743, training kl divergence 0.4349, valid error 57.0853, time 0.41 
+epoch 264, training loss (NLL) 54.4726, training kl divergence 0.4342, valid error 57.0572, time 0.44 
+epoch 265, training loss (NLL) 54.4786, training kl divergence 0.4339, valid error 57.1911, time 0.41 
+epoch 266, training loss (NLL) 54.4939, training kl divergence 0.4338, valid error 57.1542, time 0.41 
+epoch 267, training loss (NLL) 54.4821, training kl divergence 0.4338, valid error 57.1218, time 0.40 
+epoch 268, training loss (NLL) 54.4941, training kl divergence 0.4336, valid error 57.1030, time 0.41 
+epoch 269, training loss (NLL) 54.4830, training kl divergence 0.4337, valid error 57.1084, time 0.40 
+epoch 270, training loss (NLL) 54.4584, training kl divergence 0.4331, valid error 57.0944, time 0.41 
+epoch 271, training loss (NLL) 54.4138, training kl divergence 0.4320, valid error 57.1214, time 0.41 
+epoch 272, training loss (NLL) 54.3997, training kl divergence 0.4306, valid error 57.0625, time 0.41 
+epoch 273, training loss (NLL) 54.3530, training kl divergence 0.4291, valid error 57.0397, time 0.42 
+epoch 274, training loss (NLL) 54.3440, training kl divergence 0.4275, valid error 56.9728, time 0.44  ***
+epoch 275, training loss (NLL) 54.3417, training kl divergence 0.4259, valid error 56.9193, time 0.40  ***
+epoch 276, training loss (NLL) 54.3229, training kl divergence 0.4247, valid error 56.9015, time 0.40  ***
+epoch 277, training loss (NLL) 54.3544, training kl divergence 0.4234, valid error 56.9556, time 0.41 
+epoch 278, training loss (NLL) 54.3259, training kl divergence 0.4224, valid error 56.9097, time 0.41 
+epoch 279, training loss (NLL) 54.3411, training kl divergence 0.4216, valid error 57.0433, time 0.41 
+epoch 280, training loss (NLL) 54.3479, training kl divergence 0.4209, valid error 56.9353, time 0.40 
+epoch 281, training loss (NLL) 54.3502, training kl divergence 0.4202, valid error 56.9549, time 0.41 
+epoch 282, training loss (NLL) 54.3328, training kl divergence 0.4197, valid error 56.9639, time 0.40 
+epoch 283, training loss (NLL) 54.2945, training kl divergence 0.4186, valid error 56.9200, time 0.41 
+epoch 284, training loss (NLL) 54.3076, training kl divergence 0.4175, valid error 56.9317, time 0.41 
+epoch 285, training loss (NLL) 54.3176, training kl divergence 0.4171, valid error 56.8991, time 0.40  ***
+epoch 286, training loss (NLL) 54.3297, training kl divergence 0.4165, valid error 57.0392, time 0.41 
+epoch 287, training loss (NLL) 54.3254, training kl divergence 0.4161, valid error 56.9185, time 0.40 
+epoch 288, training loss (NLL) 54.2862, training kl divergence 0.4156, valid error 57.0017, time 0.41 
+epoch 289, training loss (NLL) 54.2923, training kl divergence 0.4147, valid error 56.9091, time 0.41 
+epoch 290, training loss (NLL) 54.3118, training kl divergence 0.4139, valid error 56.8993, time 0.40 
+epoch 291, training loss (NLL) 54.2817, training kl divergence 0.4133, valid error 56.8610, time 0.42  ***
+epoch 292, training loss (NLL) 54.2810, training kl divergence 0.4125, valid error 56.9048, time 0.44 
+epoch 293, training loss (NLL) 54.2671, training kl divergence 0.4119, valid error 56.9237, time 0.42 
+epoch 294, training loss (NLL) 54.2804, training kl divergence 0.4112, valid error 56.9078, time 0.41 
+epoch 295, training loss (NLL) 54.2795, training kl divergence 0.4108, valid error 56.9244, time 0.41 
+epoch 296, training loss (NLL) 54.2670, training kl divergence 0.4102, valid error 57.0017, time 0.40 
+epoch 297, training loss (NLL) 54.2766, training kl divergence 0.4096, valid error 56.9475, time 0.41 
+epoch 298, training loss (NLL) 54.2644, training kl divergence 0.4089, valid error 56.9447, time 0.40 
+epoch 299, training loss (NLL) 54.2968, training kl divergence 0.4086, valid error 57.0417, time 0.41 
+epoch 300, training loss (NLL) 54.3373, training kl divergence 0.4089, valid error 57.0119, time 0.40 
+epoch 301, training loss (NLL) 54.4290, training kl divergence 0.4098, valid error 56.9867, time 0.40 
+epoch 302, training loss (NLL) 54.4040, training kl divergence 0.4110, valid error 56.9882, time 0.41 
+epoch 303, training loss (NLL) 54.4054, training kl divergence 0.4116, valid error 57.0012, time 0.40 
+epoch 304, training loss (NLL) 54.4008, training kl divergence 0.4117, valid error 56.9578, time 0.40 
+epoch 305, training loss (NLL) 54.4433, training kl divergence 0.4121, valid error 56.9328, time 0.41 
+epoch 306, training loss (NLL) 54.4308, training kl divergence 0.4125, valid error 56.9660, time 0.42 
+epoch 307, training loss (NLL) 54.4205, training kl divergence 0.4123, valid error 56.9826, time 0.41 
+epoch 308, training loss (NLL) 54.4032, training kl divergence 0.4116, valid error 57.0366, time 0.41 
+epoch 309, training loss (NLL) 54.4082, training kl divergence 0.4113, valid error 57.1773, time 0.41 
+epoch 310, training loss (NLL) 54.3599, training kl divergence 0.4114, valid error 57.0439, time 0.41 
+epoch 311, training loss (NLL) 54.2694, training kl divergence 0.4104, valid error 56.9395, time 0.43 
+epoch 312, training loss (NLL) 54.1989, training kl divergence 0.4082, valid error 56.8668, time 0.40 
+epoch 313, training loss (NLL) 54.1742, training kl divergence 0.4056, valid error 56.8467, time 0.39  ***
+epoch 314, training loss (NLL) 54.1767, training kl divergence 0.4032, valid error 56.7817, time 0.40  ***
+epoch 315, training loss (NLL) 54.1872, training kl divergence 0.4017, valid error 56.9216, time 0.39 
+epoch 316, training loss (NLL) 54.1705, training kl divergence 0.4005, valid error 56.8459, time 0.39 
+epoch 317, training loss (NLL) 54.1670, training kl divergence 0.3992, valid error 56.8147, time 0.41 
+epoch 318, training loss (NLL) 54.1754, training kl divergence 0.3981, valid error 56.7815, time 0.42  ***
+epoch 319, training loss (NLL) 54.1781, training kl divergence 0.3973, valid error 56.7858, time 0.42 
+epoch 320, training loss (NLL) 54.1769, training kl divergence 0.3966, valid error 56.7835, time 0.40 
+epoch 321, training loss (NLL) 54.1776, training kl divergence 0.3957, valid error 56.7558, time 0.42  ***
+epoch 322, training loss (NLL) 54.1791, training kl divergence 0.3950, valid error 56.8379, time 0.39 
+epoch 323, training loss (NLL) 54.1649, training kl divergence 0.3946, valid error 56.8168, time 0.41 
+epoch 324, training loss (NLL) 54.1875, training kl divergence 0.3939, valid error 56.8524, time 0.41 
+epoch 325, training loss (NLL) 54.1634, training kl divergence 0.3937, valid error 56.7832, time 0.41 
+epoch 326, training loss (NLL) 54.1760, training kl divergence 0.3931, valid error 56.8720, time 0.40 
+epoch 327, training loss (NLL) 54.1946, training kl divergence 0.3928, valid error 56.9100, time 0.40 
+epoch 328, training loss (NLL) 54.2010, training kl divergence 0.3927, valid error 56.8471, time 0.40 
+epoch 329, training loss (NLL) 54.1883, training kl divergence 0.3927, valid error 56.8290, time 0.41 
+epoch 330, training loss (NLL) 54.2268, training kl divergence 0.3926, valid error 56.9670, time 0.40 
+epoch 331, training loss (NLL) 54.2086, training kl divergence 0.3928, valid error 56.9697, time 0.39 
+epoch 332, training loss (NLL) 54.2036, training kl divergence 0.3928, valid error 56.8596, time 0.40 
+epoch 333, training loss (NLL) 54.1930, training kl divergence 0.3924, valid error 56.9748, time 0.39 
+epoch 334, training loss (NLL) 54.2055, training kl divergence 0.3923, valid error 56.8753, time 0.41 
+epoch 335, training loss (NLL) 54.1743, training kl divergence 0.3915, valid error 56.8914, time 0.40 
+epoch 336, training loss (NLL) 54.1424, training kl divergence 0.3909, valid error 56.8194, time 0.41 
+epoch 337, training loss (NLL) 54.1213, training kl divergence 0.3897, valid error 56.7999, time 0.40 
+epoch 338, training loss (NLL) 54.1161, training kl divergence 0.3882, valid error 56.8423, time 0.40 
+epoch 339, training loss (NLL) 54.1194, training kl divergence 0.3872, valid error 56.8619, time 0.40 
+epoch 340, training loss (NLL) 54.1196, training kl divergence 0.3864, valid error 56.8090, time 0.40 
+epoch 341, training loss (NLL) 54.1164, training kl divergence 0.3857, valid error 56.8215, time 0.40 
+epoch 342, training loss (NLL) 54.0945, training kl divergence 0.3848, valid error 56.7792, time 0.40 
+epoch 343, training loss (NLL) 54.1034, training kl divergence 0.3839, valid error 56.8396, time 0.40 
+epoch 344, training loss (NLL) 54.1182, training kl divergence 0.3833, valid error 56.8084, time 0.40 
+epoch 345, training loss (NLL) 54.1135, training kl divergence 0.3830, valid error 56.8252, time 0.40 
+epoch 346, training loss (NLL) 54.0984, training kl divergence 0.3824, valid error 56.8143, time 0.40 
+epoch 347, training loss (NLL) 54.1109, training kl divergence 0.3819, valid error 56.7644, time 0.40 
+epoch 348, training loss (NLL) 54.1110, training kl divergence 0.3816, valid error 56.7779, time 0.40 
+epoch 349, training loss (NLL) 54.1113, training kl divergence 0.3812, valid error 56.8598, time 0.42 
+epoch 350, training loss (NLL) 54.1201, training kl divergence 0.3809, valid error 56.8402, time 0.40 
+epoch 351, training loss (NLL) 54.0963, training kl divergence 0.3807, valid error 56.8172, time 0.40 
+epoch 352, training loss (NLL) 54.1120, training kl divergence 0.3800, valid error 56.8561, time 0.40 
+Done! best epoch 321, best valid error 56.7558, test error 56.4155, training time 149.25m
