@@ -50,7 +50,9 @@ The second issue is that calculating the KL divergence involves the [digamma fun
 
 Lastly, if the posterior's truncation level is set too low, sampling the Kumaraswamy variables can cause NaNs.  This occurs because the model tries to perform a hard thresholding of the latent representation, and to do this, the variational Kumaraswamy parameters must be set to very small or very large values.  Very large values cause the Taylor approximations to become inaccurate, and very small values can cause the 1/a, 1/b terms to go to infinity.  If NaNs are encountered, increasing the truncation level or clipping the parameters of the variational Kumaraswamys usually solve the problem. 
 
-#### Roadmap 
-I plan to add models with convolutional layers and with multiple stochastic layers.
+## Visitors Counts
+
+![Visitor Count](https://profile-counter.glitch.me/sb_vae/count.svg)
+
 
 
